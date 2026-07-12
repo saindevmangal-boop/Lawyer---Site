@@ -1,0 +1,18 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F2A50"/>
+      <stop offset="100%" stop-color="#C8A951" stop-opacity="0.25"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="#0F2A50"/>
+  <rect width="800" height="600" fill="url(#g3)" opacity="0.6"/>
+  <g opacity="0.85" fill="none" stroke="#C8A951" stroke-width="4">
+    <rect x="140" y="260" width="520" height="240"/>
+    <polygon points="120,260 400,120 680,260"/>
+    <rect x="360" y="360" width="80" height="140"/>
+    <rect x="200" y="320" width="70" height="70"/>
+    <rect x="530" y="320" width="70" height="70"/>
+  </g>
+  <text x="400" y="560" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-size="28" fill="#F5F6F8">Commercial Shop</text>
+</svg>
